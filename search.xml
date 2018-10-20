@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F10%2F20%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[GloryDay]]></title>
     <url>%2F2018%2F10%2F19%2FGloryDay%2F</url>
     <content type="text"><![CDATA[荣耀日 2018年10月19日 周五晚 图书馆 人生的意义是什么？ 友人上来就问这句话。 友人是佛教徒，那个认知观里，的确给了人生，世界的完整解释。当然除了外太空。 人生的意义是什么，可能就是没有意义。人，生物的产生，早先的初级生物的产生，可能就像是，大风把山坡上的石块和石板吹落，而它们落地时刚好组成了一辆能用风力前进的小车架构。不过组成生物的不是石块，而是有机物，无机空间里通过闪电等环境的确能生成几种有机物。几种有机物掺杂，组成了具有某些功能的结构体，而在自然选择的筛选下，留存下去的是功能上利于留存的结构体，就这样一系列变异，选择，形成了生命体。 所以人究其深来说，是一堆有着利于留存的功能有机物集合。所有的一切都是为了留存，因为我们自身就是留存的集合。 留存的生物体，当初形成了三种性状，或着说功能，繁殖类，永生类，繁殖又永生类。永生类因为这样那样的原因，陨石砸死，淹死，在地球的这几十亿年里死完了。繁殖类的自然是因为基因的存在，生生不息；繁殖又永生的生物，因为种群数目太多而全部饿死了。于是如今的地球存在的生物全部具有的共同性状就是繁殖。因为剩下的就只有具有繁殖性状的生物了。 想着如今人口老龄化的现状，不无道理。 说到繁殖性状，人作为进化的高级生物，其实是自然对繁殖性状的更严格选择，也将又繁殖性状接近极端的体现。繁殖，就是把基因传递下去，传递下去的极端，就是自私的极端。所以人生而自私。 自己又突然产生了怀疑，对极端繁殖论，但疑惑还很笼统，需要慢慢理一理。 也是如此，这只是反映我自己不同时期的观念。毕竟现在看早期观念里确实有不周到的地方。 宇宙的边缘是什么？人的思考行为又是哪种物理活动？]]></content>
@@ -63,10 +68,5 @@
       <tags>
         <tag>第一次</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F09%2F27%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
